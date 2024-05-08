@@ -9,5 +9,8 @@ example : "thousand"(1000),  none of the letters used more than once
 Question 2 :
 How many words does your answer to this question consist of?
 
+Question 2 :
+How many words does your answer consist of?
+
 Question 3 :
 How many letters does your answer to this question consist of?

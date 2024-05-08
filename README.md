@@ -1,5 +1,5 @@
 # aicantsolvetest
-Questions for ai that llms cant solve 
+Questions for ai that llms cant solve but a ten year old can solve
 
 Question 1 :
 Write the biggest 4 digit number that letters not used more than once
